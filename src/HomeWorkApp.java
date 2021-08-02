@@ -50,3 +50,4 @@ public class HomeWorkApp {
         System.out.println("Apple");
     }
 }
+// Комментарий
